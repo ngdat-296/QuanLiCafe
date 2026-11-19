@@ -52,7 +52,7 @@ namespace QuanLiCH
             {
                 txbPassword.UseSystemPasswordChar = true;
                 var checkBox = (CheckBox)sender;
-                checkBox.Text = "Wiew";
+                checkBox.Text = "View";
             }
             else
             {
